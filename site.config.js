@@ -11,14 +11,14 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-    {
-      name: `GDBr`,
-      href: "https://github.com/Chemical118/GDBr",
-    },
-    {
-      name: `TRIS`,
-      href: "https://github.com/Chemical118/TRIS",
-    },
+    // {
+    //   name: `GDBr`,
+    //   href: "https://github.com/Chemical118/GDBr",
+    // },
+    // {
+    //   name: `TRIS`,
+    //   href: "https://github.com/Chemical118/TRIS",
+    // },
   ],
   // blog setting (required)
   blog: {
