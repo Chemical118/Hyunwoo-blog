@@ -1,1 +1,7 @@
 User-agent: *
+
+# Host
+Host: https://blog.hyunwoo.info/
+
+# Sitemaps
+Sitemap: https://blog.hyunwoo.info/sitemap.xml
