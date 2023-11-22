@@ -1,8 +1,8 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "Hyunwoo Ryu",
+    image: "/profile-circle.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Bioinformatics developer",
     bio: "Biological science & Chemistry & Computer science and so on!",
     email: "ryu@hyunwoo.info",
@@ -15,10 +15,10 @@ const CONFIG = {
       name: `GDBr`,
       href: "https://github.com/Chemical118/GDBr",
     },
-    // {
-    //   name: `TRIS`,
-    //   href: "https://github.com/Chemical118/TRIS",
-    // },
+    {
+      name: `TRIS`,
+      href: "https://github.com/Chemical118/TRIS",
+    },
   ],
   // blog setting (required)
   blog: {
