@@ -12,8 +12,12 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `GDBr`,
+      href: "https://github.com/Chemical118/GDBr",
+    },
+    {
+      name: `TRIS`,
+      href: "https://github.com/Chemical118/TRIS",
     },
   ],
   // blog setting (required)
@@ -35,7 +39,7 @@ const CONFIG = {
 
   // plugin configuration (optional)
   googleAnalytics: {
-    enable: false,
+    enable: true,
     config: {
       measurementId: process.env.NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID || "",
     },
