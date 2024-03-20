@@ -16,8 +16,8 @@ const CONFIG = {
       href: "https://github.com/Chemical118/GDBr",
     },
     {
-      name: `TRIS`,
-      href: "https://github.com/Chemical118/TRIS",
+      name: `TREW`,
+      href: "https://github.com/Chemical118/TREW",
     },
   ],
   // blog setting (required)
